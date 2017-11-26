@@ -1,3 +1,20 @@
+/*
+                SCRIPT-3
+Script which created and uese during the demonstration on YouTube video
+
+
+Creator: Manish Sharma
+	Website: www.RebellionRider.com
+		Fastest way to reach Manish Sharma
+	Twitter: @RebellionRider
+	Facebook:@TheRebellionRider
+	Instagram: @RebellionRider
+	
+	Do make sure to follow me on my social media for more such scripts and other col stuffs. 
+	Thanks and have great day.
+
+*/
+
 SET SERVEROUTPUT ON;
 DECLARE
     CURSOR exp_cur IS
