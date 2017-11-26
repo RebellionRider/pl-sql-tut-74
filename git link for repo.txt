@@ -1,2 +1,0 @@
-git remote add origin https://github.com/RebellionRider/pl-sql-tut-74.git
-git push -u origin master
