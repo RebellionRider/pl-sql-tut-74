@@ -11,6 +11,8 @@ You can also now read about Bulk Collect with FETCH-INTO statement on our websit
 In this blog Manish has answered all the question which you have asked and 
 which can SURELY expect in your Certification Exam and Interview.
 
+http://bit.ly/bulk-collect-3
+
 Do make sure to follow Manish Sharma on Social media for more latest updates. Here are the links
 
 www.facebook.com/TheRebellionRider
